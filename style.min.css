@@ -124,7 +124,7 @@ a:hover,.anchor:hover {
 
 .block {
 	width: 100%;
-	background: #fff;
+	/*background: #fff;*/
 	position: relative;
 	z-index: 2;
 	text-align: center
